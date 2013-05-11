@@ -1,0 +1,521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Tag Cloud Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-10 18:00+0100\n"
+"PO-Revision-Date: 2012-06-10 18:00+0100\n"
+"Last-Translator: Rickard Andersson <rickard@montania.se>\n"
+"Language-Team: 0x539.se <rickard@0x539.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: /Users/rickard/serversites/ultimate-tag-cloud-widget\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /www/ultimate-tag-cloud-widget/trunk\n"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:52
+msgid "Data"
+msgstr "Data"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:53
+msgid "Basic appearance"
+msgstr "Grundläggande utseende"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:54
+msgid "Advanced appearance"
+msgstr "Avancerat utseende"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:55
+msgid "Links"
+msgstr "Länkar"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:56
+msgid "Adv."
+msgstr "Avanc."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:60
+msgid "Only posts from the selected authors will be used when calculating the tag cloud."
+msgstr "Endast inlägg skrivna av de valda författarna kommer att användas när molnet skapas."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:61
+msgid "Authors:"
+msgstr "Författare:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:68
+msgid "Which property of the tag should be used when determining the order of the tags in the cloud."
+msgstr "Vilken av taggens egenskap som ska användas när sorteringen av taggarna görs."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:69
+msgid "Order:"
+msgstr "Ordning:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:71
+msgid "Random"
+msgstr "Slumpvis"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:73
+msgid "By name"
+msgstr "Efter namn"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:75
+msgid "By slug"
+msgstr "Efter slug"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:77
+msgid "By id"
+msgstr "Efter id"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:79
+msgid "By color"
+msgstr "Efter färg"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:81
+msgid "Count"
+msgstr "Antal"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:83
+msgid "Reverse order"
+msgstr "Omvänd ordning"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:85
+msgid "Case sensitive"
+msgstr "Skiftlägeskänsligt"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:88
+msgid "Which taxonomy should be used in the cloud. You should be able to choose a custom taxonomy as well."
+msgstr "Vilken taxonomi som ska användas i molnet. Här ska även skräddarsydda taxonomier (custom taxonomies) vara med."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:89
+msgid "Taxonomy:"
+msgstr "Taxonomi:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:97
+msgid "Which post types should be used in the cloud. Only tags from posts from these post types will be used in the tag cloud."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:106
+msgid "Only tags which have been used with this many posts will be visible in the cloud"
+msgstr "Bara taggar som har blivit använda i så här många ilägg kommer att visas i molnet."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:107
+msgid "Tags with fewer posts than this will be automatically excluded."
+msgstr "Taggar med färre inlägg än detta kommer automatiskt att exkluderas."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:107
+msgid "Minimum number of posts: "
+msgstr "Minsta antal inlägg:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:111
+msgid "Only posts which are posted within this number of days will be used when generating the cloud"
+msgstr "Bara inlägg som blev publicerade inom såhär många dagar kommer att användas när molnet skapas."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:112
+msgid "The maximum number of days back to search for posts, zero means every post."
+msgstr "Max antal dagar bakåt i tiden att söka efter inlägg, noll innebär alla inlägg."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:112
+msgid "Posts max age:"
+msgstr "Inläggens maxålder:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:116
+msgid "Choose either include or exclude above and enter a comma separated list of either the names or IDs of the tags you'd like to include/exclude."
+msgstr "Välj antingen inkludera eller exkludera ovan och fyll i en kommaseparerad lista av antingen namn eller ID nummer av de taggar du vill inkludera/exkludera."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:118
+msgid "Include only ... "
+msgstr "Inkludera endast ..."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:120
+msgid "Exclude ... "
+msgstr "Exclude ..."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:122
+msgid "... these tags:"
+msgstr "... dessa taggar:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:128
+msgid "The title is the text which is shown above the tag cloud."
+msgstr "Titeln är den text som visas ovanför taggmolnet"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:129
+msgid "Title:"
+msgstr "Titel"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:131
+#, fuzzy
+msgid "Show title"
+msgstr "Visa titel"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:135
+msgid "The tag with the least number of posts will be the smallest, and the tag with the most number of posts will be the biggest."
+msgstr "Taggen med färst antal inlägg kommer att bli minst och taggen med flest antal inlägg kommer att bli störst."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:136
+msgid "Tag size (in px):"
+msgstr "Taggstorlek (i px):"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:137
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:163
+msgid "From"
+msgstr "Från"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:139
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:166
+msgid "to"
+msgstr "till"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:143
+msgid "If the total number of tags exceeds this number, only this many tags will be shown in the cloud."
+msgstr "Om det totala antalet taggar överskrider detta antal, ta bara med såhär många taggar i molnet. "
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:144
+msgid "Max tags:"
+msgstr "Max antal taggar:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:148
+msgid "This setting controls how the tags are colored.<ul><li>Totaly random will choose between all the 16 million colors available.</li><li>Random from preset values will choose colors from a predefined set of colors</li><li>Spanning between values will calculate the corresponding color based upon how many posts each tag has, similar to how the size is calculated. The tag with the least number of posts will have the first color and the tag with the most number of posts will have the second color. All tags in between will have a color calculated between the first and the second color.</li></ul>The colors for the choice 'Random from preset values' has to be specified as a comma separated list."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:149
+msgid "Coloring:"
+msgstr "Färgläggning:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:151
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:258
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:310
+msgid "None"
+msgstr "Ingen"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:153
+msgid "Totally random"
+msgstr "Helt slumpat"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:155
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:157
+msgid "Random from preset values"
+msgstr "Slumpat mellan färger"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:161
+msgid "Spanning between values"
+msgstr "Utspritt mellan två färger"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:174
+msgid "The title is the small (usually) yellow label which will appear when the user hovers the tag. Try to hover the text to the left to see an example of what a title text looks like."
+msgstr "Titeln är den lilla (vanligtvis) gula text som visas när användaren pekar på taggen. Prova att peka på texten till vänster för att se ett exempel på hur det ser ut."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:176
+msgid "This is a title"
+msgstr "Detta är en titel"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:176
+msgid "Show title (hover text)"
+msgstr "Visa titel"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:179
+msgid "The spacing is a numerical value which controls how much space there is between letters, words, tags or rows. To use the default value for these settings just use the corresponding default value from the CSS specification: <ul><li>Letter spacing: normal</li><li>Word spacing: normal</li><li>Tag spacing (CSS margin): auto</li><li>Row spacing (CSS line height): inherit</li></ul>To use anything but the default values, just specify a number (the unit is pixels)."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:180
+msgid "Spacing (in px):"
+msgstr "Mellanrum (i px):"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:181
+msgid "Between letters:"
+msgstr "Mellan bokstäver:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:183
+msgid "Between words:"
+msgstr "Mellan ord:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:185
+msgid "Between tags:"
+msgstr "Mellan taggar:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:187
+msgid "Between rows:"
+msgstr "Mellan rader:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:191
+msgid "The tags can be transformed in a number of different ways. lowercase, UPPERCASE or Capitalized."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:192
+msgid "Transform tags:"
+msgstr "Omvandla taggar:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:194
+msgid "Off"
+msgstr "Inaktiverat"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:196
+msgid "To lowercase"
+msgstr "Till gemener"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:198
+msgid "To uppercase"
+msgstr "Till versaler"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:200
+msgid "Capitalize"
+msgstr "Stor begynnelsebokstav"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:203
+msgid "The tags can be surrounded by a prefix and/or suffix and separated with a separator. The default separator is just a space but can be changed to anything you'd like. Remember to add a space before and after the separator, this is not automatically added by the plugin.<br><br>A short example, these settings:<ul><li>Separator: &nbsp;-&nbsp; </li><li>Prefix: (</li><li>Suffix: )</li></ul>… would produce a tag cloud like this: <br><br>(first tag) - (second tag) - (third tag)<br><br>Prefix and suffix characters will have the same size and color as the tag, but the separator will not."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:204
+msgid "Tag separators:"
+msgstr "Separatorer:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:205
+msgid "Separator"
+msgstr "Separator"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:207
+msgid "Prefix"
+msgstr "Prefix"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:209
+msgid "Suffix"
+msgstr "Suffix"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:217
+msgid "The normal styles will apply to the tags when the user is <b>not</b> hovering the link."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:219
+msgid "Yes or no will force the tag setting for the <u>underline</u> style, theme default will let the blog theme decide."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:220
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:277
+msgid "Underline"
+msgstr "Understreck"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:222
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:232
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:242
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:279
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:287
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:295
+msgid "Yes"
+msgstr "Yes"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:224
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:234
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:244
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:281
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:289
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:297
+msgid "No"
+msgstr "Nej"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:226
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:236
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:246
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:283
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:291
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:299
+msgid "Theme default"
+msgstr "Följ temats standard"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:229
+msgid "Yes or no will force the tag setting for the <b>bold</b> style, theme default will let the blog theme decide."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:230
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:285
+msgid "Bold"
+msgstr "Fetstilt"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:239
+msgid "Yes or no will force the tag setting for the <i>italic</i> style, theme default will let the blog theme decide."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:240
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:293
+msgid "Italic"
+msgstr "Kursiv stil"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:249
+msgid "This setting will change the background color of <b>the link only</b>, not the whole cloud. The color has to be specified in hexadeximal format, like ffffff for white, 0000ff for blue or 000000 for black."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:250
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:301
+msgid "Background color (hex value):"
+msgstr "Bakgrundsfärgen (hexadecimalt värde)"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:254
+msgid "This setting will change the border of <b>the link only</b>, not the whole cloud. <ul><li>The width of the border is a numerical value (in the unit pixels).</li><li>The color has to be specified in hexadeximal format, like ffffff for white, 0000ff for blue or 000000 for black.</li></ul>"
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:255
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:306
+msgid "Border"
+msgstr "Kantlinje"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:256
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:308
+msgid "Style: "
+msgstr "Stil:"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:259
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:311
+msgid "Dotted"
+msgstr "Prickig"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:260
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:312
+msgid "Dashed"
+msgstr "Streckad"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:261
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:313
+msgid "Solid"
+msgstr "Solid"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:262
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:314
+msgid "Double"
+msgstr "Dubbel"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:263
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:315
+msgid "Groove"
+msgstr "Groovy"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:264
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:316
+msgid "Ridge"
+msgstr "Räfflad"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:265
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:317
+msgid "Inset"
+msgstr "Infälld"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:266
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:318
+msgid "Outset"
+msgstr "Utfälld"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:269
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:321
+msgid "Width (in px):"
+msgstr "Bredd (i px):"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:272
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:324
+msgid "Color (hex value): "
+msgstr "Färg (hexadecimalt värde):"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:275
+msgid "The hover effects will only affect the style of the tag when the user hovers the tag. For details about each settings see the section above."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:304
+msgid "Font color (hex value):"
+msgstr "Textfärg (hexadecimalt värde):"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:329
+msgid "This will add a &lt;-- HTML comment --&gt; to the output with some debugging information, please use this information when troubleshooting. You can find the debugging information by using 'view source' in your browser when viewing the page and searching for 'Ultimate Tag Cloud Debug information'"
+msgstr "Detta kommer att lägga till en &lt;-- HTML kommentar --&gt; till utskriften med felsökningsinformation, vänligen använd denna information om problem skulle uppstå. Du kan hitta informationen genom att använda \"visa källa\" i din webbläsare när du besöker sidan, och söka efter 'Ultimate Tag Cloud Debug information'"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:331
+msgid "Include debug output"
+msgstr "Inkludera felsökningsinformation"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:333
+msgid "This will save the current configuration which enables you to load this configuration at a later time. Check this box, choose a name in the text field below and press 'Save' to save the configuration."
+msgstr ""
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:335
+msgid "Save configuration"
+msgstr "Spara konfiguration"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:337
+msgid "This is the name which will be used for the current configuration if you check the option 'Save configuration' above. If the name is omitted the current date and time will be used."
+msgstr "Detta är namnet som komemr att användas för den nuvarande konfigurationen om du väljer valet 'Spara konfiguration' ovanför. Om du inte väljer något namn kommer nuvarande datum och tid att användas."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:338
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:348
+msgid "Configuration name"
+msgstr "Konfigurationens namn"
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:344
+msgid "This will load the selected configuration to the state which the widget was when the configuration was saved."
+msgstr "Detta kommer att ladda den valda konfigurationen till de inställningar som widgeten hade när konfigurationen sparades."
+
+#: /www/ultimate-tag-cloud-widget/trunk/settings.php:346
+msgid "Load configuration"
+msgstr "Ladda konfiguration"
+
+#: /www/ultimate-tag-cloud-widget/trunk/ultimate-tag-cloud-widget.php:28
+msgid "Tag Cloud"
+msgstr "Taggmoln"
+
+#: /www/ultimate-tag-cloud-widget/trunk/ultimate-tag-cloud-widget.php:93
+msgid "Highly configurable tag cloud"
+msgstr "Ett mycket konfigurerbart taggmoln"
+
+#: /www/ultimate-tag-cloud-widget/trunk/ultimate-tag-cloud-widget.php:94
+msgid "Ultimate Tag Cloud"
+msgstr "Ultimate Tag Cloud"
+
+#: /www/ultimate-tag-cloud-widget/trunk/ultimate-tag-cloud-widget.php:885
+#, php-format
+msgid "%s topic"
+msgstr "%s ämne"
+
+#~ msgid "%s topics"
+#~ msgstr "%s ämnen"
+
+#~ msgid "Alphabetically"
+#~ msgstr "Alfabetisk"
+
+#~ msgid "Post Tags"
+#~ msgstr "Taggar"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorier"
+
+#~ msgid "Exclude:"
+#~ msgstr "Exkludera"
+
+#~ msgid "Appearance"
+#~ msgstr "Utseende"
+
+#~ msgid "Enter either the names or IDs of the tags you'd like to exclude."
+#~ msgstr "Skriv antingen namn eller IDn på de taggar du vill exkludera"
+
+#~ msgid ""
+#~ "Tagging pages is not a native feature of WordPress, you can use this "
+#~ "feature together with the page tagger plugin"
+#~ msgstr ""
+#~ "Att tagga sidor är inte en standardfunktion i WordPress, du kan använda "
+#~ "denna funktion tillsammans med pluginen page tagger"
+
+#~ msgid "Include tags from pages"
+#~ msgstr "Inkludera taggar från sidor"
+
+#~ msgid "Exclude these tags:"
+#~ msgstr "Exkludera dessa taggar:"
+
+#~ msgid "Adv. appearance"
+#~ msgstr "Avancerat utseende"
+
+#~ msgid "Link CSS styles"
+#~ msgstr "Länkars CSS-stil"
+
+#~ msgid ""
+#~ "Tagging pages is not a native feature of WordPress, you can use this "
+#~ "feature together with the <a href=\"http://wordpress.org/extend/plugins/"
+#~ "page-tagger/\" target=\"_blank\">page tagger plugin</a>"
+#~ msgstr ""
+#~ "Att tagga sidor är inte en standardfunktion i WordPress, du kan använda "
+#~ "denna funktion tillsammans med pluginen <a href=\"http://wordpress.org/"
+#~ "extend/plugins/page-tagger/\" target=\"_blank\">page tagger</a>"

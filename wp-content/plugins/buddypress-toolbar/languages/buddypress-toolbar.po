@@ -1,0 +1,876 @@
+# This file is distributed under the same license as the BuddyPress Toolbar package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2012-08-13 13:20:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: BuddyPress Toolbar\n"
+
+#: buddypress-toolbar.php:0
+msgid "1.4.1"
+msgstr ""
+
+#: includes/bptb-admin.php:98
+msgid "More about the plugin author"
+msgstr ""
+
+#: includes/bptb-admin.php:99
+msgid "Social:"
+msgstr ""
+
+#: includes/bptb-admin.php:114
+msgid "Plugin"
+msgstr ""
+
+#: includes/bptb-admin.php:116
+msgid "Suggest new resource items, themes or plugins for support"
+msgstr ""
+
+#: includes/bptb-admin.php:117
+msgid "Code snippets for customizing &amp; branding"
+msgstr ""
+
+#: includes/bptb-admin.php:159
+msgid "Important plugin links:"
+msgstr ""
+
+#: includes/bptb-admin.php:160
+msgid "Plugin Website"
+msgstr ""
+
+#: includes/bptb-plugins-bpcheckins.php:27
+#: includes/bptb-plugins-bpcheckins.php:29
+msgid "BP Checkins"
+msgstr ""
+
+#: includes/bptb-plugins-bpcheckins.php:41
+#: includes/bptb-plugins-bpcheckins.php:43
+msgid "Community Places"
+msgstr ""
+
+#: includes/bptb-plugins-bpcheckins.php:47
+#: includes/bptb-plugins-bpcheckins.php:49
+msgid "Add new Place"
+msgstr ""
+
+#: includes/bptb-plugins-bpcheckins.php:53
+#: includes/bptb-plugins-bpcheckins.php:55
+msgid "Places Categories"
+msgstr ""
+
+#: includes/bptb-plugins-bpcheckins.php:65
+msgid "Checkins Roots Page"
+msgstr ""
+
+#: includes/bptb-plugins-bpcheckins.php:67
+msgctxt "Translators: For the tooltip"
+msgid "Frontend: Checkins Roots Page"
+msgstr ""
+
+#: includes/bptb-plugins-bpcheckins.php:75
+#: includes/bptb-plugins-bpcheckins.php:77
+msgid "Activity Checkins"
+msgstr ""
+
+#: includes/bptb-plugins-bpcheckins.php:83
+#: includes/bptb-plugins-bpcheckins.php:85
+msgid "Checkins &amp; Places Component"
+msgstr ""
+
+#: includes/bptb-plugins-bpcheckins.php:91
+#: includes/bptb-plugins-bpcheckins.php:93
+msgid "Foursquare API Settings"
+msgstr ""
+
+#: includes/bptb-plugins-bpcheckins.php:104
+#: includes/bptb-plugins-bpcheckins.php:106
+msgid "Foursquare Import Logs"
+msgstr ""
+
+#: includes/bptb-plugins.php:35 includes/bptb-plugins.php:37
+#: includes/bptb-plugins.php:43 includes/bptb-plugins.php:45
+msgid "BP Extended Settings"
+msgstr ""
+
+#: includes/bptb-plugins.php:315
+msgid "Portfolio Roots Page"
+msgstr ""
+
+#: includes/bptb-plugins.php:317
+msgctxt "Translators: For the tooltip"
+msgid "Frontend: Portfolio Roots Page"
+msgstr ""
+
+#: includes/bptb-plugins.php:483 includes/bptb-plugins.php:485
+msgid "Media Component Settings"
+msgstr ""
+
+#: includes/bptb-plugins.php:498 includes/bptb-plugins.php:500
+msgid "Mobile Settings"
+msgstr ""
+
+#: includes/bptb-plugins.php:668 includes/bptb-plugins.php:670
+msgid "BP Polls Settings"
+msgstr ""
+
+#: includes/bptb-plugins.php:676
+msgid "Polls Roots Page"
+msgstr ""
+
+#: includes/bptb-plugins.php:678
+msgctxt "Translators: For the tooltip"
+msgid "Frontend: Polls Roots Page"
+msgstr ""
+
+#: includes/bptb-plugins.php:826 includes/bptb-plugins.php:828
+msgid "BuddyShare Settings"
+msgstr ""
+
+#: includes/bptb-admin.php:122
+msgid "Other, recommended BuddyPress plugins"
+msgstr ""
+
+#: includes/bptb-admin.php:126
+msgid "extra configuration settings for BuddyPress Admins"
+msgstr ""
+
+#: includes/bptb-admin.php:132
+msgid "analyze member profiles, registration times etc."
+msgstr ""
+
+#: includes/bptb-admin.php:138
+msgid "an elegant extension for better groups descriptions"
+msgstr ""
+
+#: includes/bptb-admin.php:144
+msgid "uses HTML5 Geolocation API to publish checkins or places"
+msgstr ""
+
+#: includes/bptb-admin.php:150
+msgid "a Learning Management System (LMS) for BuddyPress"
+msgstr ""
+
+#: includes/bptb-admin.php:56 includes/bptb-admin.php:160
+msgid "Translations"
+msgstr ""
+
+#: includes/bptb-plugins.php:307 includes/bptb-plugins.php:309
+msgid "BuddyPress Portfolio"
+msgstr ""
+
+#: includes/bptb-plugins.php:805 includes/bptb-plugins.php:807
+msgid "BP Profile Search"
+msgstr ""
+
+#: includes/bptb-plugins.php:811 includes/bptb-plugins.php:813
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/bptb-plugins.php:1048 includes/bptb-plugins.php:1050
+msgid "BP Login Redirect"
+msgstr ""
+
+#: includes/bptb-plugins.php:1064 includes/bptb-plugins.php:1066
+msgid "BP Profile as Homepage"
+msgstr ""
+
+#: includes/bptb-plugins.php:58 includes/bptb-plugins.php:60
+msgid "BuddyPress ScholarPress Courseware"
+msgstr ""
+
+#: includes/bptb-themes.php:54 includes/bptb-themes.php:56
+msgid "Genesis Connect Settings"
+msgstr ""
+
+#: buddypress-toolbar.php:0 includes/bptb-admin.php:91
+#: includes/bptb-admin.php:114
+msgid "BuddyPress Toolbar"
+msgstr ""
+
+#: buddypress-toolbar.php:0
+msgid "http://genesisthemes.de/en/wp-plugins/buddypress-toolbar/"
+msgstr ""
+
+#: buddypress-toolbar.php:0
+msgid "This plugin adds useful admin links and resources for BuddyPress to the WordPress Toolbar / Admin Bar."
+msgstr ""
+
+#: buddypress-toolbar.php:0
+msgid "David Decker - DECKERWEB"
+msgstr ""
+
+#: buddypress-toolbar.php:0
+msgid "http://deckerweb.de/"
+msgstr ""
+
+#: includes/bptb-admin.php:54 includes/bptb-admin.php:160
+msgid "FAQ"
+msgstr ""
+
+#: includes/bptb-admin.php:55 includes/bptb-admin.php:160
+msgid "Support"
+msgstr ""
+
+#: includes/bptb-admin.php:57 includes/bptb-admin.php:160
+msgid "Donate"
+msgstr ""
+
+#: includes/bptb-resources.php:27 includes/bptb-resources.php:29
+msgid "BuddyPress Support"
+msgstr ""
+
+#: includes/bptb-resources.php:33 includes/bptb-resources.php:35
+msgid "WordPress.org Support Forum"
+msgstr ""
+
+#: includes/bptb-resources.php:47 includes/bptb-resources.php:49
+msgid "Codex & Documentation"
+msgstr ""
+
+#: includes/bptb-resources.php:82 includes/bptb-resources.php:84
+msgid "BuddyPress HQ"
+msgstr ""
+
+#: includes/bptb-resources.php:88 includes/bptb-resources.php:90
+msgid "Official Blog"
+msgstr ""
+
+#: includes/bptb-resources.php:94 includes/bptb-resources.php:96
+msgid "About BuddyPress"
+msgstr ""
+
+#: includes/bptb-resources.php:100 includes/bptb-resources.php:102
+msgid "Development Updates"
+msgstr ""
+
+#: includes/bptb-resources.php:106 includes/bptb-resources.php:108
+msgid "Trac: Tickets &amp; Bug Reports"
+msgstr ""
+
+#: includes/bptb-resources.php:112 includes/bptb-resources.php:114
+msgid "Extend BuddyPress: Plugins"
+msgstr ""
+
+#: includes/bptb-resources.php:118 includes/bptb-resources.php:120
+msgid "Extend BuddyPress: Recommended Plugins"
+msgstr ""
+
+#: includes/bptb-resources.php:124 includes/bptb-resources.php:126
+msgid "Extend BuddyPress: Themes"
+msgstr ""
+
+#: includes/bptb-resources.php:130 includes/bptb-resources.php:132
+msgid "More free plugins/extensions at WP.org"
+msgstr ""
+
+#: includes/bptb-resources.php:136 includes/bptb-resources.php:138
+msgid "More free Themes at WP.org"
+msgstr ""
+
+#: buddypress-toolbar.php:222 buddypress-toolbar.php:224
+msgid "German Support Forum"
+msgstr ""
+
+#: buddypress-toolbar.php:230
+msgid "German language files"
+msgstr ""
+
+#: buddypress-toolbar.php:360 buddypress-toolbar.php:362
+msgid "Forums Setup"
+msgstr ""
+
+#: buddypress-toolbar.php:387 buddypress-toolbar.php:389
+msgid "Profile Fields/Groups"
+msgstr ""
+
+#: buddypress-toolbar.php:393 buddypress-toolbar.php:395
+msgid "Add new Field Group"
+msgstr ""
+
+#: buddypress-toolbar.php:283 buddypress-toolbar.php:285
+msgid "Moderate Activity"
+msgstr ""
+
+#: buddypress-toolbar.php:421 buddypress-toolbar.php:423
+msgid "bbPress Forums"
+msgstr ""
+
+#: buddypress-toolbar.php:446 buddypress-toolbar.php:448
+msgid "Active Extensions"
+msgstr ""
+
+#: buddypress-toolbar.php:196 buddypress-toolbar.php:509
+msgid "BuddyPress"
+msgstr ""
+
+#: buddypress-toolbar.php:300 buddypress-toolbar.php:302
+msgid "Pages for Components"
+msgstr ""
+
+#: buddypress-toolbar.php:349 buddypress-toolbar.php:351
+msgid "Community &amp; Groups"
+msgstr ""
+
+#: buddypress-toolbar.php:232
+msgid "German language files for BuddyPress and more BP extensions"
+msgstr ""
+
+#: includes/bptb-plugins.php:87 includes/bptb-plugins.php:89
+#: includes/bptb-plugins.php:96 includes/bptb-plugins.php:98
+msgid "BP Group Organizer"
+msgstr ""
+
+#: includes/bptb-plugins.php:150 includes/bptb-plugins.php:152
+#: includes/bptb-plugins.php:159 includes/bptb-plugins.php:161
+msgid "BP Group Hierarchy"
+msgstr ""
+
+#: includes/bptb-plugins.php:901 includes/bptb-plugins.php:903
+#: includes/bptb-plugins.php:927 includes/bptb-plugins.php:929
+msgid "WangGuard Moderation Queue"
+msgstr ""
+
+#: includes/bptb-plugins.php:913 includes/bptb-plugins.php:915
+msgid "WangGuard Wizard"
+msgstr ""
+
+#: includes/bptb-plugins.php:919 includes/bptb-plugins.php:921
+msgid "WangGuard Statistics"
+msgstr ""
+
+#: includes/bptb-plugins.php:939 includes/bptb-plugins.php:941
+msgid "Wizard"
+msgstr ""
+
+#: includes/bptb-plugins.php:945 includes/bptb-plugins.php:947
+msgid "Statistics"
+msgstr ""
+
+#: includes/bptb-plugins.php:951 includes/bptb-plugins.php:953
+msgid "Configuration"
+msgstr ""
+
+#: includes/bptb-plugins.php:970 includes/bptb-plugins.php:972
+msgid "Members: Adjust Roles &amp; Capabilities"
+msgstr ""
+
+#: includes/bptb-plugins.php:980 includes/bptb-plugins.php:982
+msgid "Members: Add new Role"
+msgstr ""
+
+#: buddypress-toolbar.php:403 buddypress-toolbar.php:405
+msgid "Users"
+msgstr ""
+
+#: buddypress-toolbar.php:411 buddypress-toolbar.php:413
+msgid "Add new User"
+msgstr ""
+
+#: includes/bptb-plugins.php:177 includes/bptb-plugins.php:179
+#: includes/bptb-plugins.php:186 includes/bptb-plugins.php:188
+msgid "BP Groups Extras"
+msgstr ""
+
+#: includes/bptb-plugins.php:197 includes/bptb-plugins.php:199
+#: includes/bptb-plugins.php:206 includes/bptb-plugins.php:208
+msgid "Groups Pages"
+msgstr ""
+
+#: includes/bptb-plugins.php:224 includes/bptb-plugins.php:226
+#: includes/bptb-plugins.php:233 includes/bptb-plugins.php:235
+msgid "Group Default Avatar"
+msgstr ""
+
+#: includes/bptb-plugins.php:274 includes/bptb-plugins.php:276
+#: includes/bptb-plugins.php:283 includes/bptb-plugins.php:285
+msgid "BP GTM System"
+msgstr ""
+
+#: includes/bptb-plugins.php:391 includes/bptb-plugins.php:393
+#: includes/bptb-plugins.php:408 includes/bptb-plugins.php:410
+msgid "User Account Type Lite"
+msgstr ""
+
+#: includes/bptb-plugins.php:575 includes/bptb-plugins.php:577
+msgid "BuddyStream"
+msgstr ""
+
+#: includes/bptb-plugins.php:581 includes/bptb-plugins.php:583
+msgid "Dashboard"
+msgstr ""
+
+#: includes/bptb-plugins.php:587 includes/bptb-plugins.php:589
+msgid "Powercentral"
+msgstr ""
+
+#: includes/bptb-plugins.php:593 includes/bptb-plugins.php:595
+msgid "General Settings"
+msgstr ""
+
+#: includes/bptb-plugins.php:599 includes/bptb-plugins.php:601
+msgid "Cronjob Settings"
+msgstr ""
+
+#: includes/bptb-plugins.php:605 includes/bptb-plugins.php:607
+msgid "Logs"
+msgstr ""
+
+#: includes/bptb-plugins.php:611 includes/bptb-plugins.php:613
+msgid "Start Tour"
+msgstr ""
+
+#: includes/bptb-themes.php:220 includes/bptb-themes.php:222
+msgid "Custom Styling"
+msgstr ""
+
+#: includes/bptb-themes.php:430 includes/bptb-themes.php:432
+msgid "BuddyPress Theme Compatibility"
+msgstr ""
+
+#: includes/bptb-resources.php:53
+msgid "Releases"
+msgstr ""
+
+#: includes/bptb-resources.php:55
+msgid "Releases - see in the sidebar there!"
+msgstr ""
+
+#: includes/bptb-resources.php:59
+msgid "Theme Development"
+msgstr ""
+
+#: includes/bptb-resources.php:61
+msgid "Theme Development - see in the sidebar there!"
+msgstr ""
+
+#: includes/bptb-resources.php:65
+msgid "Developer Docs"
+msgstr ""
+
+#: includes/bptb-resources.php:67
+msgid "Developer Docs - see in the sidebar there!"
+msgstr ""
+
+#: includes/bptb-plugins.php:637 includes/bptb-plugins.php:639
+msgid "Achievements"
+msgstr ""
+
+#: includes/bptb-plugins.php:841 includes/bptb-plugins.php:843
+msgid "BP Twitter Settings"
+msgstr ""
+
+#: includes/bptb-plugins.php:249 includes/bptb-plugins.php:251
+#: includes/bptb-plugins.php:258 includes/bptb-plugins.php:260
+msgid "Group Email Subscription"
+msgstr ""
+
+#: includes/bptb-plugins.php:710 includes/bptb-plugins.php:712
+msgid "Invite Anyone Settings"
+msgstr ""
+
+#: includes/bptb-plugins.php:716 includes/bptb-plugins.php:718
+msgid "Access Control"
+msgstr ""
+
+#: includes/bptb-plugins.php:722 includes/bptb-plugins.php:724
+msgid "CloudSponge"
+msgstr ""
+
+#: includes/bptb-plugins.php:728 includes/bptb-plugins.php:730
+msgid "Manage Invitations"
+msgstr ""
+
+#: includes/bptb-plugins.php:734 includes/bptb-plugins.php:736
+msgid "Stats"
+msgstr ""
+
+#: includes/bptb-plugins.php:744 includes/bptb-plugins.php:746
+msgid "BP Invitations"
+msgstr ""
+
+#: includes/bptb-plugins.php:750 includes/bptb-plugins.php:752
+msgid "Add new Invitation"
+msgstr ""
+
+#: includes/bptb-plugins.php:756 includes/bptb-plugins.php:758
+msgid "Invitees"
+msgstr ""
+
+#: includes/bptb-plugins.php:762 includes/bptb-plugins.php:764
+msgid "Invited Groups"
+msgstr ""
+
+#: includes/bptb-plugins-eventsmanager.php:26
+#: includes/bptb-plugins-eventsmanager.php:28
+msgid "Events Manager"
+msgstr ""
+
+#: includes/bptb-plugins-eventsmanager.php:32
+#: includes/bptb-plugins-eventsmanager.php:34
+msgid "Add new Event"
+msgstr ""
+
+#: includes/bptb-plugins-eventsmanager.php:42
+#: includes/bptb-plugins-eventsmanager.php:44
+msgid "Event Tags"
+msgstr ""
+
+#: includes/bptb-plugins-eventsmanager.php:52
+#: includes/bptb-plugins-eventsmanager.php:54
+msgid "Event Categories"
+msgstr ""
+
+#: includes/bptb-plugins-eventsmanager.php:62
+#: includes/bptb-plugins-eventsmanager.php:64
+msgid "Recurring Events"
+msgstr ""
+
+#: includes/bptb-plugins-eventsmanager.php:72
+#: includes/bptb-plugins-eventsmanager.php:74
+msgid "Locations"
+msgstr ""
+
+#: includes/bptb-plugins-eventsmanager.php:82
+#: includes/bptb-plugins-eventsmanager.php:84
+msgid "Bookings"
+msgstr ""
+
+#: buddypress-toolbar.php:294 buddypress-toolbar.php:296
+#: includes/bptb-plugins-bpcheckins.php:21
+#: includes/bptb-plugins-collabpress.php:100
+#: includes/bptb-plugins-collabpress.php:102
+#: includes/bptb-plugins-collabpress.php:203
+#: includes/bptb-plugins-collabpress.php:205
+#: includes/bptb-plugins-eventsmanager.php:92
+#: includes/bptb-plugins-eventsmanager.php:94 includes/bptb-plugins.php:118
+#: includes/bptb-plugins.php:120 includes/bptb-plugins.php:134
+#: includes/bptb-plugins.php:136
+msgid "Settings"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:107
+#: includes/bptb-plugins-collabpress.php:109
+#: includes/bptb-plugins-collabpress.php:210
+#: includes/bptb-plugins-collabpress.php:212
+#: includes/bptb-plugins-eventsmanager.php:120
+#: includes/bptb-plugins-eventsmanager.php:122
+msgid "Help"
+msgstr ""
+
+#: includes/bptb-plugins.php:856 includes/bptb-plugins.php:858
+msgid "BP Code Snippets Manager"
+msgstr ""
+
+#: includes/bptb-resources.php:148
+msgid "BuddyPress News Planet"
+msgstr ""
+
+#: includes/bptb-resources.php:150
+msgid "BuddyPress News Planet (official and community news via FriendFeed service)"
+msgstr ""
+
+#: includes/bptb-resources.php:142
+msgid "BP-Tricks.com (Community Site)"
+msgstr ""
+
+#: includes/bptb-resources.php:144
+msgid "BP-Tricks.com - A BuddyPress Community Site"
+msgstr ""
+
+#: includes/bptb-plugins.php:112 includes/bptb-plugins.php:114
+msgid "BP Group Management"
+msgstr ""
+
+#: includes/bptb-plugins.php:128 includes/bptb-plugins.php:130
+msgid "Group Management"
+msgstr ""
+
+#: includes/bptb-plugins.php:331 includes/bptb-plugins.php:333
+msgid "BuddyPress Docs"
+msgstr ""
+
+#: includes/bptb-plugins.php:337 includes/bptb-plugins.php:339
+msgid "Add new BP-Doc"
+msgstr ""
+
+#: includes/bptb-plugins.php:343 includes/bptb-plugins.php:345
+msgid "Docs Tags"
+msgstr ""
+
+#: includes/bptb-plugins.php:349 includes/bptb-plugins.php:351
+msgid "Associated Items"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:28
+#: includes/bptb-plugins-collabpress.php:30
+#: includes/bptb-plugins-collabpress.php:131
+#: includes/bptb-plugins-collabpress.php:133
+msgid "CollabPress Dashboard"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:38
+#: includes/bptb-plugins-collabpress.php:40
+#: includes/bptb-plugins-collabpress.php:141
+#: includes/bptb-plugins-collabpress.php:143
+msgid "Projects"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:44
+#: includes/bptb-plugins-collabpress.php:46
+#: includes/bptb-plugins-collabpress.php:147
+#: includes/bptb-plugins-collabpress.php:149
+msgid "Add new Project"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:50
+#: includes/bptb-plugins-collabpress.php:52
+#: includes/bptb-plugins-collabpress.php:153
+#: includes/bptb-plugins-collabpress.php:155
+msgid "Projects: BP Groups"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:57
+#: includes/bptb-plugins-collabpress.php:59
+#: includes/bptb-plugins-collabpress.php:160
+#: includes/bptb-plugins-collabpress.php:162
+msgid "Task Lists"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:63
+#: includes/bptb-plugins-collabpress.php:65
+#: includes/bptb-plugins-collabpress.php:166
+#: includes/bptb-plugins-collabpress.php:168
+msgid "Add new Task List"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:70
+#: includes/bptb-plugins-collabpress.php:72
+#: includes/bptb-plugins-collabpress.php:173
+#: includes/bptb-plugins-collabpress.php:175
+msgid "Tasks"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:76
+#: includes/bptb-plugins-collabpress.php:78
+#: includes/bptb-plugins-collabpress.php:179
+#: includes/bptb-plugins-collabpress.php:181
+msgid "Add new Task"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:83
+#: includes/bptb-plugins-collabpress.php:85
+#: includes/bptb-plugins-collabpress.php:186
+#: includes/bptb-plugins-collabpress.php:188
+msgid "Meta Data"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:89
+#: includes/bptb-plugins-collabpress.php:91
+#: includes/bptb-plugins-collabpress.php:192
+#: includes/bptb-plugins-collabpress.php:194
+msgid "Add new Meta Data"
+msgstr ""
+
+#: includes/bptb-plugins-collabpress.php:117
+#: includes/bptb-plugins-collabpress.php:119
+#: includes/bptb-plugins-collabpress.php:220
+#: includes/bptb-plugins-collabpress.php:222
+msgid "Debug"
+msgstr ""
+
+#: includes/bptb-plugins-eventsmanager.php:103
+#: includes/bptb-plugins-eventsmanager.php:105
+msgid "Multisite Settings"
+msgstr ""
+
+#: includes/bptb-plugins-eventsmanager.php:110
+#: includes/bptb-plugins-eventsmanager.php:112
+msgid "Multisite: Update Sites"
+msgstr ""
+
+#: includes/bptb-plugins.php:871 includes/bptb-plugins.php:873
+msgid "SeoPress Page Types"
+msgstr ""
+
+#: includes/bptb-plugins.php:877 includes/bptb-plugins.php:879
+msgid "Options"
+msgstr ""
+
+#: includes/bptb-plugins.php:883 includes/bptb-plugins.php:885
+msgid "Bug Tracker / Tickets"
+msgstr ""
+
+#: includes/bptb-plugins.php:907 includes/bptb-plugins.php:909
+#: includes/bptb-plugins.php:933 includes/bptb-plugins.php:935
+msgid "WangGuard Users"
+msgstr ""
+
+#: includes/bptb-plugins.php:999 includes/bptb-plugins.php:1001
+#: includes/bptb-plugins.php:1007 includes/bptb-plugins.php:1009
+msgid "Assign Profile Groups to User Roles"
+msgstr ""
+
+#: includes/bptb-plugins.php:1024 includes/bptb-plugins.php:1032
+msgid "Blog Roles Changes"
+msgstr ""
+
+#: includes/bptb-plugins.php:1026 includes/bptb-plugins.php:1034
+msgid "Recorded Blog Roles Changes"
+msgstr ""
+
+#: includes/bptb-themes.php:41
+msgid "Theme Settings"
+msgstr ""
+
+#: includes/bptb-themes.php:261 includes/bptb-themes.php:263
+#: includes/bptb-themes.php:281 includes/bptb-themes.php:283
+msgid "More Settings"
+msgstr ""
+
+#: buddypress-toolbar.php:199 buddypress-toolbar.php:512
+msgctxt "Translators: For the tooltip"
+msgid "BuddyPress"
+msgstr ""
+
+#: buddypress-toolbar.php:203
+msgid "Search Codex"
+msgstr ""
+
+#: buddypress-toolbar.php:204
+msgid "GO"
+msgstr ""
+
+#: includes/bptb-resources.php:39 includes/bptb-resources.php:41
+msgid "BP Trac: New Ticket"
+msgstr ""
+
+#: includes/bptb-resources.php:76
+msgctxt "Translators: For the tooltip"
+msgid "Search Codex"
+msgstr ""
+
+#: buddypress-toolbar.php:377 buddypress-toolbar.php:379
+msgid "Widgets"
+msgstr ""
+
+#: buddypress-toolbar.php:431 buddypress-toolbar.php:433
+msgid "Manage Groups"
+msgstr ""
+
+#: includes/bptb-plugins.php:435 includes/bptb-plugins.php:437
+#: includes/bptb-plugins.php:443 includes/bptb-plugins.php:445
+msgid "CD Avatar Bubble"
+msgstr ""
+
+#: includes/bptb-plugins.php:460 includes/bptb-plugins.php:462
+#: includes/bptb-plugins.php:468 includes/bptb-plugins.php:470
+msgid "Shared Friends"
+msgstr ""
+
+#: includes/bptb-plugins.php:367 includes/bptb-plugins.php:369
+msgid "Breadcrumbs Everywhere"
+msgstr ""
+
+#: includes/bptb-plugins.php:516 includes/bptb-plugins.php:518
+#: includes/bptb-plugins.php:542 includes/bptb-plugins.php:544
+msgid "Profiles Statistics"
+msgstr ""
+
+#: includes/bptb-plugins.php:692 includes/bptb-plugins.php:694
+msgid "MyMood Settings"
+msgstr ""
+
+#: buddypress-toolbar.php:244
+msgid "Translations Forum"
+msgstr ""
+
+#: buddypress-toolbar.php:246
+msgctxt "Translators: For the tooltip"
+msgid "Translations Forum"
+msgstr ""
+
+#: buddypress-toolbar.php:253
+msgid "Language Packs Download"
+msgstr ""
+
+#: buddypress-toolbar.php:255
+msgctxt "Translators: For the tooltip"
+msgid "Language Packs Download"
+msgstr ""
+
+#: buddypress-toolbar.php:310
+msgid "Activity Root Page"
+msgstr ""
+
+#: buddypress-toolbar.php:312
+msgctxt "Translators: For the tooltip"
+msgid "Frontend: Activity Root Page"
+msgstr ""
+
+#: buddypress-toolbar.php:320
+msgid "Blogs Root Page"
+msgstr ""
+
+#: buddypress-toolbar.php:322
+msgctxt "Translators: For the tooltip"
+msgid "Frontend: Blogs Root Page"
+msgstr ""
+
+#: buddypress-toolbar.php:330
+msgid "Groups Root Page"
+msgstr ""
+
+#: buddypress-toolbar.php:332
+msgctxt "Translators: For the tooltip"
+msgid "Frontend: Groups Root Page"
+msgstr ""
+
+#: buddypress-toolbar.php:340
+msgid "Members Root Page"
+msgstr ""
+
+#: buddypress-toolbar.php:342
+msgctxt "Translators: For the tooltip"
+msgid "Frontend: Members Root Page"
+msgstr ""
+
+#: buddypress-toolbar.php:367
+msgid "Forums Root Page"
+msgstr ""
+
+#: buddypress-toolbar.php:369
+msgctxt "Translators: For the tooltip"
+msgid "Frontend: Forums Root Page"
+msgstr ""
+
+#: includes/bptb-plugins.php:399 includes/bptb-plugins.php:401
+#: includes/bptb-plugins.php:416 includes/bptb-plugins.php:418
+msgid "Roles"
+msgstr ""
+
+#: includes/bptb-plugins.php:522 includes/bptb-plugins.php:524
+#: includes/bptb-plugins.php:548 includes/bptb-plugins.php:550
+msgid "Profiles"
+msgstr ""
+
+#: includes/bptb-plugins.php:528 includes/bptb-plugins.php:530
+#: includes/bptb-plugins.php:554 includes/bptb-plugins.php:556
+msgid "Activity Time"
+msgstr ""
+
+#: includes/bptb-plugins.php:534 includes/bptb-plugins.php:536
+#: includes/bptb-plugins.php:560 includes/bptb-plugins.php:562
+msgid "Support &amp; Author"
+msgstr ""
+
+#: includes/bptb-plugins.php:645
+msgid "Achievements Roots Page"
+msgstr ""
+
+#: includes/bptb-plugins.php:647
+msgctxt "Translators: For the tooltip"
+msgid "Frontend: Achievements Roots Page"
+msgstr ""
