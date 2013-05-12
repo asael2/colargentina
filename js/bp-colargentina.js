@@ -1,5 +1,5 @@
 // JavaScript Colargentina.com,  Colombianosenargentina.com developed info@artyficial.net
-version = "Alfa RC3.5";
+version = "Alfa RC3.6";
 var puntoDeAyuda = 1004;
 $ = jQuery;
 var topArrow, slide, btn, elemento, Timeslide;
